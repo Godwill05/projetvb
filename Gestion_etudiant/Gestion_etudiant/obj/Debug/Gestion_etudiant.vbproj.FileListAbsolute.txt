@@ -1,0 +1,32 @@
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\bin\Debug\Gestion_etudiant.exe.config
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.vbprojResolveAssemblyReference.cache
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.acceuil.resources
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.Etudiant.resources
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.Filiere.resources
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.Resources.resources
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.Niveau.resources
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.vbproj.GenerateResource.Cache
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.xml
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\bin\Debug\Gestion_etudiant.exe
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\bin\Debug\Gestion_etudiant.pdb
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\bin\Debug\Gestion_etudiant.xml
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.exe
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.pdb
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.List_etudiant.resources
+D:\TP\VBNET\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.List_fil.resources
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\bin\Debug\Gestion_etudiant.exe.config
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.exe
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.xml
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.pdb
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\bin\Debug\Gestion_etudiant.exe
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\bin\Debug\Gestion_etudiant.pdb
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\bin\Debug\Gestion_etudiant.xml
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.vbprojResolveAssemblyReference.cache
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.acceuil.resources
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.Etudiant.resources
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.Filiere.resources
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.List_etudiant.resources
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.List_fil.resources
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.Resources.resources
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.Niveau.resources
+C:\Users\Godwill OUSSOU\Documents\Visual Studio 2015\Projects\Gestion_etudiant\Gestion_etudiant\obj\Debug\Gestion_etudiant.vbproj.GenerateResource.Cache
